@@ -1,0 +1,8 @@
+{
+  "profile": "Lag Fix",
+  "fps": 90,
+  "graphics": "smooth",
+  "memory_optimization": true,
+  "touch_optimization": true,
+  "network_boost": true
+}
