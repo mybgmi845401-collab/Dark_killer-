@@ -1,0 +1,8 @@
+{
+  "profile": "Ultra FPS",
+  "fps": 120,
+  "graphics": "ultra",
+  "memory_optimization": true,
+  "touch_optimization": true,
+  "network_boost": true
+}
